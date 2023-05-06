@@ -1,12 +1,15 @@
-import { useState } from 'react'
 import './App.css'
-
+import { Header } from "./components/header/Header"
+import { Home } from './components/home/Home'
 function App() {
 
 
   return (
     <div className="App">
-      LET'S GET THIS STARTED
+      <Header />
+      <main className="main">
+        <Home />
+      </main>
     </div>
   )
 }
