@@ -8,7 +8,7 @@ export const Frontend = () => {
             <div className="skills__box">
                 <div className="skills__group">
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
 
                         <div>
                             <h3 className="skills__name">HTML</h3>
@@ -16,7 +16,7 @@ export const Frontend = () => {
                         </div>
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">CSS</h3>
                             <span className="skills__level">Advanced</span>
@@ -24,7 +24,7 @@ export const Frontend = () => {
 
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">Javascript</h3>
                             <span className="skills__level">Advanced</span>
@@ -35,7 +35,7 @@ export const Frontend = () => {
 
                 <div className="skills__group">
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
 
                         <div>
                             <h3 className="skills__name">Bootstrap</h3>
@@ -43,7 +43,7 @@ export const Frontend = () => {
                         </div>
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">Git/Git Actions</h3>
                             <span className="skills__level">Advanced</span>
@@ -51,7 +51,7 @@ export const Frontend = () => {
 
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">React</h3>
                             <span className="skills__level">Advanced</span>
@@ -59,7 +59,7 @@ export const Frontend = () => {
 
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">Angular</h3>
                             <span className="skills__level">Intermediate</span>
@@ -67,7 +67,7 @@ export const Frontend = () => {
 
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">Typescript</h3>
                             <span className="skills__level">Intermediate</span>
@@ -75,7 +75,7 @@ export const Frontend = () => {
 
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">Styled Components</h3>
                             <span className="skills__level">Advanced</span>
@@ -83,7 +83,7 @@ export const Frontend = () => {
 
                     </div>
                     <div className="skills__data">
-                        <i class='bx bxs-badge-check'></i>
+                        <i className='bx bxs-badge-check'></i>
                         <div>
                             <h3 className="skills__name">Tailwind</h3>
                             <span className="skills__level">Advanced</span>

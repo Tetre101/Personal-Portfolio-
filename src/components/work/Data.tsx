@@ -6,6 +6,7 @@ import Work6 from '../../assets/work6.jpg'
 import Work7 from '../../assets/work7.jpg'
 import Work1 from '../../assets/work1.jpg'
 export const projectsData = [
+
     {
         id: 1,
         image: Work1,
@@ -60,7 +61,7 @@ export const projectsData = [
                 <i className='bx bxl-typescript'></i>
             </div>
         ),
-        link: "#portfolio",
+        link: "http://ec2-13-51-255-133.eu-north-1.compute.amazonaws.com/login",
     },
     {
         id: 5,
@@ -85,7 +86,7 @@ export const projectsData = [
             <div>
                 <i className='bx bxl-html5'></i>
                 <i className='bx bxl-css3'></i>
-                <i className='bx bxl-Angular'></i>
+                <i className='bx bxl-angular' ></i>
             </div>
         ),
         link: "https://peterworld.netlify.app/",

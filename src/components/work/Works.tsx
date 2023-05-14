@@ -4,7 +4,7 @@ import { Workitems } from './Workitems';
 
 export const Works = () => {
     const [item, setItem] = useState({ name: "all" });
-    const [projects, setProjects] = useState([]);
+    const [projects, setProjects] = useState<any>([]);
     const [active, setActive] = useState(0);
 
     useEffect(() => {
@@ -18,7 +18,7 @@ export const Works = () => {
         }
     }, [item]);
 
-    const handleClick = (e, index) => {
+    const handleClick = (e: any, index: any) => {
         setItem({ name: e.target.textContent });
         setActive(index)
     }
@@ -40,7 +40,7 @@ export const Works = () => {
             </div>
 
             <div className='work__container container grid'>
-                {projects.map((item) => {
+                {projects.map((item: any) => {
                     return <Workitems item={item} key={item.id} />;
                 })}
             </div>

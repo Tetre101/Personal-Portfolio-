@@ -100,8 +100,8 @@ export const Contact = () => {
                                 <label className='contact__form-tag'>Project</label>
                                 <textarea
                                     name='project'
-                                    cols="30"
-                                    rows='10'
+                                    cols={30}
+                                    rows={10}
                                     className='contact__form-input'
                                     placeholder='Write your project'></textarea>
                                 <ValidationError
