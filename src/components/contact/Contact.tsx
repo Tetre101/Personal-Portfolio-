@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useForm, ValidationError } from "@formspree/react";
 import toast, { Toaster } from 'react-hot-toast';
-import './contact.css'
+import './Contact.css'
 
 export const Contact = () => {
     const [state, handleSubmit] = useForm("xwkjzogd");
