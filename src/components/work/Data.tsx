@@ -15,7 +15,7 @@ export const projectsData = [
         description: (
             <p>
                 <i className='bx bxl-css3'></i>
-                <i className='bx bxl-React'></i>
+                <i className='bx bxl-react'></i>
             </p>
         ),
         link: "https://expense-tracker-2-react.netlify.app/",
